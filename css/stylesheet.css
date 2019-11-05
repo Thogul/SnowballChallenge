@@ -46,13 +46,14 @@ a:hover{
 /*----------------------------------PARAGRAF----------------------*/
 
 p{
-    padding: 5px 10px;
+    padding: 5px 20px;
 }
 
 /*----------------------------CONTACT-----------------------------*/
 
 h1{
     text-align: center;
+    padding-top: 20px;
 }
 
 body{
@@ -87,4 +88,10 @@ body{
     padding: 20px 100px;
     border-radius: 20px;
     cursor: pointer;
+}
+
+.group-info p{
+    text-align: center;
+    font-size: 30px;
+    line-height: 50px;
 }
